@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2n0043/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十四
+  hash: sha256:1b0fee061afb4650a390a33f011206c9ad39b5a17ebb7b4f5e965df0aa8e4e0c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2n0043_WYG_000-1a, image: WYG0684/WYG0684-0447a.png}
+body:
+  text: 分𨽻偶存目録類二金石之屬提要臣等謹案分𨽻偶存二卷國朝萬經撰經字授一號九沙鄞縣人康熙癸未進士官翰林編修是編上卷首作書法次作分𨽻書法次論分𨽻次論漢唐分𨽻同異次漢魏碑考下卷為古今分𨽻人姓氏始於程邈終於明末馬如玉自鄺露以前皆引據諸書惟如玉不著載何書則經所自增矣集録金石之書梁元帝所輯不可見歐趙以下罕有論及分𨽻筆法者經所録頗詳辨别門徑具為清晰所列漢魏諸碑雖止二十一種而考證剔抉比諸家務多者亦較精核至云唐以前𨽻楷合為一唐以後𨽻與八分分為二𨽻即今楷書八分即古𨽻書歐陽以八分為𨽻趙明誠已譏之國朝顧炎武金石文字記并漢碑無不名八分而以楷為正書正恐仍蹈歐陽之失其說亦明白可據也乾隆四十五年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:de59b9816f40d7b196846e1abe47e7bc9b4c4a5ffe50a0d2f9c99708ec342b50
+metadata:
+  title: 分隸偶存
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:55:24.615608'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2n0043/KR2n0043_000.txt
+hash: sha256:0c23861e069cea0abea746d6948fad6799f5460ffa8016fef843fd478b25d031
