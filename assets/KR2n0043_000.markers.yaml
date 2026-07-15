@@ -113,6 +113,7 @@ markers:
       ', id: KR2n0043_krp_000-bkkkrnewl20}
   - {type: line-break, offset: 255, content: '', id: KR2n0043_WYG_000-2a03}
   - {type: indent, offset: 255, content: 　　　　, id: KR2n0043_krp_000-bkkind19}
+  - {type: substitution, offset: 270, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: 'kr:newline', offset: 272, content: '
 
       ', id: KR2n0043_krp_000-bkkkrnewl21}
@@ -148,4 +149,4 @@ markers:
 
       ', id: KR2n0043_krp_000-bkkkrnewl24}
   back: []
-hash: sha256:b6dfff3763630f118fa10a4bee13e2a7fa29e0ae8e4fe690e21d12d3ed4dabf7
+hash: sha256:aed17a30ff4e1d05f7ed609b03949952bf097391ddbf25ee01b1ce0cb46660bf
